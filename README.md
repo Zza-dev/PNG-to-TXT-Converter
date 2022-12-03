@@ -11,11 +11,11 @@ sudo apt-get install tesseract-ocr
   
 Make sure to install all the other dependencies:
   
-  python3
+  **python3
   tkinter 
   ttkthemes
   pytesseract
-  PIL
+  PIL**
 
 To run the program open terminal, go into the main directory and type:
 
